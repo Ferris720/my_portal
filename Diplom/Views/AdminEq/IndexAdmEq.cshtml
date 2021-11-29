@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "IndexAdmEq";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br>
+<h3> Изменение оборудования</h3>
+<br>
+<li><a href="/AdminEq/Create" itemprop="url"> <font color="red">Создать новое оборудование </font></a></li>
+<br>
+@{
+    foreach (var equipment in ViewBag.equipments)
+    {
+<div class="list-item" itemprop="itemListElement">
+    <div class="list-content">
+        <p itemprop="name">
+            &nbsp Id: @equipment.Id
+        </p>
+        <p itemprop="name">
+            &nbsp Name: @equipment.Name
+        </p>
+        @*<p itemprop="name">
+            &nbsp Producer: @equipment.Producer
+        </p>*@
+        <p itemprop="name">
+            &nbsp Average Price: @equipment.Price
+        </p>
+        <p itemprop="name">
+            &nbsp CategoryId: @equipment.CategoryId
+        </p>
+        <p itemprop="image">
+            &nbsp Image Path: @equipment.Image
+        </p>
+        <p itemprop="description">
+            &nbsp Description: @equipment.Description
+        </p>
+        <p itemprop="description">
+            &nbsp Text: @equipment.Text
+        </p>
+        <br>
+        <div>
+            <li><a href="/AdminEq/Edit/@equipment.Id" itemprop="url"> <font color="red">Изменить </font></a></li>
+            <li><a href="/AdminEq/Delete/@equipment.Id" itemprop="url"> <font color="red">Удалить </font></a></li>
+        </div>
+        <hr />
+    </div>
+</div>
+    }
+}
+

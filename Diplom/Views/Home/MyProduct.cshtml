@@ -1,0 +1,76 @@
+﻿@{
+    ViewBag.Title = "MyProduct";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Products
+    </title>
+</head>
+<body>
+
+    @foreach (var equipment in ViewBag.equipments)
+    {
+    if (equipment.Id == ViewBag.Id)
+    {
+    <h3>@equipment.Name</h3>
+    }
+    }
+    <br>
+    <br>
+
+    <table>
+
+        <tbody>
+            @{
+            foreach (var equipment in ViewBag.equipments)
+            {
+            if (equipment.Id == ViewBag.Id)
+            {
+
+
+            <div class="list-item" itemprop="itemListElement">
+                <div class="list-photo">
+                    <img alt="@equipment.Name" itemprop="image" src="@Url.Content(equipment.Image)" style="width: 220px; height: 200px;" />
+                </div>
+                <br>
+                <br>
+                <div class="list-content">
+                    <p itemprop="text">
+                        Id: @equipment.Id
+                    </p>
+                    <p itemprop="text">
+                        @equipment.Text
+                    </p>
+                    <p itemprop="text">
+                        Цена: @equipment.Price руб.
+                    </p>
+                    <p itemprop="text">
+                        Скорость передачи: @equipment.SignalRate Mbs
+                    </p>
+                    @*<p itemprop="text">
+                        Производитель: @equipment.Producer
+                    </p>*@
+                    <br>
+                    @*<div class="list-detail">
+                        <a href="/Home/Order/@equipment.Id" itemprop="url"> заказать   </a> <img alt="@equipment.Name" height="10" src="@Url.Content(" ~/Content/Images/vector.png")" width="8" />
+                    </div>*@
+                    <br>
+                </div>
+            </div>
+            }
+
+
+
+            }
+
+            }
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+

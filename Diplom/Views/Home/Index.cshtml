@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Index
+    </title>
+</head>
+<body>
+    <br>
+    <h3>&nbsp &nbsp Добро пожаловать в библиотеку сетевого оборудования!</h3>
+    <br>
+    <table>
+        <tbody>
+
+            @{
+                foreach (var category in ViewBag.Categories)
+                {
+                    <div class="list-item" itemprop="itemListElement">
+                        <div class="list-photo">
+                            <a href="/Home/Products/@category.Id"><img alt="@category.Name" itemprop="image" src="@Url.Content(category.Image)" style="width: 80px; height: 80px; float:left" />&nbsp</a>
+                        </div>
+                        <div class="list-content">
+                            <h3 itemprop="name">
+                                &nbsp @category.Name
+                            </h3>
+                            @*<p itemprop="description">
+                                    &nbsp @category.Description
+                                </p>*@
+                            <div class="list-detail">
+                                <a href="/Home/Products/@category.Id" itemprop="url"> подробнее </a> <img alt="@category.Name" height="10" src="@Url.Content("~/Content/Images/vector.png")" width="8" />
+                            </div>
+                            <hr />
+                        </div>
+                    </div>
+                }
+            }
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+

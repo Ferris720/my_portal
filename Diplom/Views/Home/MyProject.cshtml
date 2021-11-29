@@ -1,0 +1,136 @@
+﻿@{
+    ViewBag.Title = "MyProject";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Project
+    </title>
+</head>
+<body>
+    <h3> Состав проекта № @ViewBag.ProjectId </h3>
+
+    @foreach (var myAm in ViewBag.searchEquipment)
+    {
+
+    <div class="list-item" itemprop="itemListElement">
+        <div class="list-photo">
+            <a href="/Home/MyProduct/@myAm.equipment.Id"><img alt="@myAm.equipment.Name" itemprop="image" src="@Url.Content(myAm.equipment.Image)" style="width: 90px; height: 80px; float:left" /></a>
+        </div>
+        <div class="list-content">
+            <h3 itemprop="name">
+                @myAm.equipment.Name
+            </h3>
+            @*<p itemprop="description">
+                @equipment.Description
+            </p>*@
+            <p itemprop="description">
+                Цена: @myAm.equipment.Price
+            </p>
+            <p itemprop="amount">
+                Количество: @myAm.amount
+            </p>
+
+            @*<p itemprop="text">
+                Производитель: @equipment.Producer
+            </p>*@
+            @*<div class="list-detail">
+                <a href="/Home/Buy/@equipment.Id" itemprop="url"> купить   </a> <img alt="@equipment.Name" height="10" src="@Url.Content(" ~/Content/Images/vector.png")" width="8" />
+                <a href="/Home/MyProduct/@equipment.Id" itemprop="url"> подробнее   </a> <img alt="@equipment.Name" height="10" src="@Url.Content(" ~/Content/Images/vector.png")" width="8" />
+            </div>*@
+            <hr />
+            <br>
+        </div>
+    </div>
+
+
+
+    }
+
+
+
+
+
+
+
+    @*@{
+    ViewBag.Title = "MyProject";
+    }
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>
+            Projects
+        </title>
+    </head>
+    <body>
+
+        @foreach (var project in ViewBag.projects)
+        {
+        if (project.ProjectId == ViewBag.Id)
+        {
+        <h3>@project.ProjectName</h3>
+        }
+        }
+        <br>
+        <br>
+
+        <table>
+
+            <tbody>
+                @{
+                foreach (var project in ViewBag.projects)
+                {
+                if (project.ProjectId == ViewBag.Id)
+                {
+
+
+                <div class="list-item" itemprop="itemListElement">
+
+                    <br>
+                    <br>
+                    <div class="list-content">
+                        <p itemprop="text">
+                            Id: @project.ProjectId
+                        </p>
+                        <p itemprop="text">
+                            Название @project.ProjectName
+                        </p>
+                        <p itemprop="text">
+                            Цена: @project.Budget
+                        </p>
+                        <p itemprop="text">
+                            Состав:
+                        </p>
+                        @{ foreach (var projectpart in ViewBag.projectparts)
+                        {
+                        if (projectpart.ProjectId == ViewBag.Id)
+                        {
+                        <p>projectpart.EquipmentId</p>
+                        }
+                        //if ((eq.Name.ToLower().Contains(filter.ToLower()))) searchEquipment.Add(eq);
+                        }
+
+                        }
+                        <br>
+
+                        <br>
+                    </div>
+                </div>
+                }
+
+
+
+                }
+
+                }
+            </tbody>
+        </table>
+    </body>
+</html>*@
+
+
+

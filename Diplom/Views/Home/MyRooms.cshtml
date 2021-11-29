@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "MyRooms";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Products
+    </title>
+</head>
+<body>
+    <div>
+        @foreach (var user in ViewBag.Users)
+        {
+            if (user.Name == ViewBag.User[0])
+            {
+                foreach (var usInRooms in ViewBag.UsersInRooms)
+                {
+                    if (usInRooms.UserId == user.UserId)
+                    {
+                        foreach (var room in ViewBag.Rooms)
+                        {
+                            if (room.RoomId == usInRooms.RoomId)
+                            {
+        <div style="background-color: lightskyblue">
+            <h3> @room.RoomName </h3>
+            <a href="/Home/Chat/@room.RoomId" id="@room.RoomId" itemprop="url"> подробнее </a> <img alt="@room.RoomId" height="10" src="@Url.Content("~/Content/Images/vector.png")" width="8" />
+        </div>
+                            }
+                        }
+                    }
+                }
+
+            }
+        }
+    </div>
+</body>
+</html>
+

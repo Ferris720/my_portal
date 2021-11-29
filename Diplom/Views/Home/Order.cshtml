@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "Order"; ;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Buy</title>
+</head>
+<body>
+    <div> 
+        <h3>Оформление заказа</h3>
+        <h5 style="color:red">Пожалуйста! Проверьте оставленные Вами данные, чтобы сотрудник мог с Вами связаться!</h5>
+        <form method="post" action="">
+            <input type="hidden" name="EquipmentId" value="@ViewBag.Id"/>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>ФИО</td>
+                        <td><input type="text" name="FIO" /></td>
+                    </tr>
+                    <tr>
+                        <td>Email</td>
+                        <td><input type="text" name="Email" /></td>
+                    </tr>
+                    <tr>
+                        <td>Адрес</td>
+                        <td><input type="text" name="Address" /></td>
+                    </tr>
+                    <tr>
+                        <td>Количество</td>
+                        <td><input type="number" name="Amount" /></td>
+                        <br>
+                    </tr>        
+                    <tr>
+                        <br>
+                        <br>
+                        <td colspan="2"><input type="submit" value="Оформить заказ"></td>
+                    </tr>
+
+                </tbody>
+
+
+            </table>
+
+
+
+        </form>
+    </div>
+</body>
+</html>

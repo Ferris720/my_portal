@@ -1,0 +1,388 @@
+F:\2кури\Kurs\TRPO_Kurs\obj\Debug\IDZ.csprojAssemblyReference.cache
+F:\2кури\Kurs\TRPO_Kurs\obj\Debug\IDZ.csproj.CoreCompileInputs.cache
+F:\2кури\Kurs\TRPO_Kurs\obj\Debug\TRPO_Kurs.dll
+F:\2кури\Kurs\TRPO_Kurs\obj\Debug\TRPO_Kurs.pdb
+F:\2кури\Kurs\TRPO_Kurs\bin\TRPO_Kurs.dll.config
+F:\2кури\Kurs\TRPO_Kurs\bin\TRPO_Kurs.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\TRPO_Kurs.pdb
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\csc.exe
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\csc.exe.config
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\csc.rsp
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\csi.exe
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\csi.exe.config
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\csi.rsp
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.Managed.Core.targets
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.AppContext.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Collections.Immutable.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Console.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.IO.Compression.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.IO.FileSystem.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.IO.Pipes.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Reflection.Metadata.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Security.AccessControl.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Claims.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Principal.Windows.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.ValueTuple.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.XmlDocument.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.XPath.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\vbc.exe
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\vbc.exe.config
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\vbc.rsp
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\VBCSCompiler.exe
+F:\2кури\Kurs\TRPO_Kurs\bin\roslyn\VBCSCompiler.exe.config
+F:\2кури\Kurs\TRPO_Kurs\bin\Antlr3.Runtime.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\EntityFramework.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\EntityFramework.SqlServer.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\Microsoft.Web.Infrastructure.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\Newtonsoft.Json.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Diagnostics.DiagnosticSource.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Net.Http.Formatting.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.Helpers.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.Http.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.Http.WebHost.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.Mvc.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.Optimization.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.Razor.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Deployment.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.WebPages.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Razor.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\WebGrease.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\EntityFramework.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\EntityFramework.SqlServer.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Net.Http.Formatting.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.Http.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.Http.WebHost.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.Helpers.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.Mvc.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.Optimization.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.Razor.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.WebPages.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Deployment.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Razor.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\Newtonsoft.Json.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\Antlr3.Runtime.pdb
+F:\2кури\Kurs\TRPO_Kurs\bin\System.Diagnostics.DiagnosticSource.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2кури\Kurs\TRPO_Kurs\bin\ru\System.Web.Helpers.resources.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\ru\System.Web.Mvc.resources.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\ru\System.Web.Optimization.resources.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\ru\System.Web.Razor.resources.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\ru\System.Web.WebPages.resources.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\2кури\Kurs\TRPO_Kurs\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\2кури\Kurs\TRPO_Kurs\obj\Debug\IDZ.csproj.CopyComplete
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\TRPO_Kurs.dll.config
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\TRPO_Kurs.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\TRPO_Kurs.pdb
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\csc.exe
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\csc.exe.config
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\csc.rsp
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\csi.exe
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\csi.exe.config
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\csi.rsp
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.AppContext.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Collections.Immutable.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Console.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.IO.Compression.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.IO.FileSystem.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.IO.Pipes.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Reflection.Metadata.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Security.AccessControl.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Claims.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.ValueTuple.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.XPath.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\vbc.exe
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\vbc.exe.config
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\vbc.rsp
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\VBCSCompiler.exe
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\roslyn\VBCSCompiler.exe.config
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\Antlr3.Runtime.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\EntityFramework.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\EntityFramework.SqlServer.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\Microsoft.Web.Infrastructure.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\Newtonsoft.Json.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Net.Http.Formatting.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.Helpers.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.Http.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.Http.WebHost.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.Mvc.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.Optimization.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.Razor.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Deployment.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.WebPages.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Razor.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\WebGrease.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\EntityFramework.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\EntityFramework.SqlServer.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Net.Http.Formatting.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.Http.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.Http.WebHost.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.Helpers.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.Mvc.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.Optimization.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.Razor.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.WebPages.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Deployment.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Razor.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\Newtonsoft.Json.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\Antlr3.Runtime.pdb
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\ru\System.Web.Helpers.resources.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\ru\System.Web.Mvc.resources.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\ru\System.Web.Optimization.resources.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\ru\System.Web.Razor.resources.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\ru\System.Web.WebPages.resources.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\ru\System.Web.WebPages.Deployment.resources.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\bin\ru\System.Web.WebPages.Razor.resources.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\obj\Debug\IDZ.csprojAssemblyReference.cache
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\obj\Debug\IDZ.csproj.CoreCompileInputs.cache
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\obj\Debug\IDZ.csproj.CopyComplete
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\obj\Debug\TRPO_Kurs.dll
+G:\Онтологический инжиниринг (1)\Kurs\Kurs\TRPO_Kurs\obj\Debug\TRPO_Kurs.pdb
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\TRPO_Kurs.dll.config
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\TRPO_Kurs.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\TRPO_Kurs.pdb
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\csc.exe
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\csc.exe.config
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\csc.rsp
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\csi.exe
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\csi.exe.config
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\csi.rsp
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.Managed.Core.targets
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.AppContext.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Collections.Immutable.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Console.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.IO.Compression.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.IO.FileSystem.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.IO.Pipes.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Reflection.Metadata.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.AccessControl.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Claims.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Principal.Windows.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.ValueTuple.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.XmlDocument.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.XPath.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\vbc.exe
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\vbc.exe.config
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\vbc.rsp
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\VBCSCompiler.exe
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\VBCSCompiler.exe.config
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\Antlr3.Runtime.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\EntityFramework.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\EntityFramework.SqlServer.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\Microsoft.Web.Infrastructure.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\Newtonsoft.Json.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Diagnostics.DiagnosticSource.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Net.Http.Formatting.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Helpers.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Http.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Http.WebHost.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Mvc.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Optimization.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Razor.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Deployment.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.WebPages.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Razor.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\WebGrease.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\EntityFramework.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\EntityFramework.SqlServer.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Net.Http.Formatting.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Http.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Http.WebHost.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Helpers.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Mvc.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Optimization.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Razor.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.WebPages.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Deployment.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Razor.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\Newtonsoft.Json.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\Antlr3.Runtime.pdb
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\System.Diagnostics.DiagnosticSource.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.Helpers.resources.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.Mvc.resources.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.Optimization.resources.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.Razor.resources.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.WebPages.resources.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\obj\Debug\IDZ.csprojAssemblyReference.cache
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\obj\Debug\IDZ.csproj.CoreCompileInputs.cache
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\obj\Debug\IDZ.csproj.CopyComplete
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\obj\Debug\TRPO_Kurs.dll
+F:\2кури\Final_Version\Kurs\TRPO_Kurs\obj\Debug\TRPO_Kurs.pdb
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\TRPO_Kurs.dll.config
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\TRPO_Kurs.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\TRPO_Kurs.pdb
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\csc.exe
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\csc.exe.config
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\csc.rsp
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\csi.exe
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\csi.exe.config
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\csi.rsp
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.AppContext.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Console.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.IO.Compression.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.IO.Pipes.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Claims.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.ValueTuple.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\vbc.exe
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\vbc.exe.config
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\vbc.rsp
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\VBCSCompiler.exe
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\Antlr3.Runtime.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\EntityFramework.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\EntityFramework.SqlServer.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\Newtonsoft.Json.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Net.Http.Formatting.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Helpers.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Http.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Http.WebHost.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Mvc.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Optimization.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Razor.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Deployment.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.WebPages.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Razor.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\WebGrease.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\EntityFramework.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\EntityFramework.SqlServer.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Net.Http.Formatting.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Http.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Http.WebHost.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Helpers.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Mvc.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Optimization.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.Razor.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.WebPages.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Deployment.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Web.WebPages.Razor.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\Newtonsoft.Json.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\Antlr3.Runtime.pdb
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.Razor.resources.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\obj\Debug\IDZ.csprojAssemblyReference.cache
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\obj\Debug\IDZ.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\obj\Debug\IDZ.csproj.CopyComplete
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\obj\Debug\TRPO_Kurs.dll
+C:\Users\danii\Desktop\ВКР\Final_Version\Kurs\TRPO_Kurs\obj\Debug\TRPO_Kurs.pdb

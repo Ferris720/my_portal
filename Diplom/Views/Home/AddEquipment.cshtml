@@ -1,0 +1,93 @@
+﻿@{
+    ViewBag.Title = "MakeProject";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AddEquipments</h2>
+
+@if (@ViewBag.Mistake == true)
+{
+    <p> Невозможно подобрать комплект! </p>
+    <p> Миниманьная сборка проекта стоит: @ViewBag.SummaryBudget рублей </p>
+}
+else
+{
+    <h3>Бюджетная сборка</h3>
+    using (Html.BeginForm())
+    {
+        <input type="hidden" name="projectId" value="@ViewBag.ProjectId" />
+        foreach (var budgetEquipment in ViewBag.BudgetSet)
+        {
+            foreach (var equipment in ViewBag.Equipments)
+            {
+                if (equipment.Id == budgetEquipment.Key)
+                {
+                    <input type="hidden" name="equipments[@equipment.Id]" value="@budgetEquipment.Value" />
+                    <div class="list-item" itemprop="itemListElement">
+                        <div class="list-photo">
+                            <img alt="@equipment.Name" itemprop="image" src="@Url.Content(equipment.Image)" style="width: 90px; height: 80px; float:left" />
+                        </div>
+                        <div class="list-content">
+                            <h5 itemprop="name">
+                                &nbsp Название: @equipment.Name
+                            </h5>
+                            <h5 itemprop="Id">
+                                &nbsp Id: @equipment.Id
+                            </h5>
+                            <h5 itemprop="Price">
+                                &nbsp Цена: @equipment.Price
+                            </h5>
+                            <h5>
+                                &nbsp Количество: @budgetEquipment.Value
+                            </h5>
+
+                            <a href="/Home/MyProduct/@equipment.Id" itemprop="url" target="_blank"> подробнее </a> <img alt="@equipment.Name" height="10" src="@Url.Content("~/Content/Images/vector.png")" width="8" />
+                            <hr />
+                        </div>
+                    </div>
+                }
+            }
+        }
+        <input type="submit" value="Добавить проект" />
+    }
+
+    <h3>Лучшая сборка</h3>
+    using (Html.BeginForm())
+    {
+        <input type="hidden" name="projectId" value="@ViewBag.ProjectId" />
+        foreach (var budgetEquipment in ViewBag.BestEquipment)
+        {
+            foreach (var equipment in ViewBag.Equipments)
+            {
+                if (equipment.Id == budgetEquipment.Key)
+                {
+                    <input type="hidden" name="equipments[@equipment.Id]" value="@budgetEquipment.Value" />
+                    <div class="list-item" itemprop="itemListElement">
+                        <div class="list-photo">
+                            <img alt="@equipment.Name" itemprop="image" src="@Url.Content(equipment.Image)" style="width: 90px; height: 80px; float:left" />
+                        </div>
+                        <div class="list-content">
+                            <h5 itemprop="name">
+                                &nbsp Название: @equipment.Name
+                            </h5>
+                            <h5 itemprop="Id">
+                                &nbsp Id: @equipment.Id
+                            </h5>
+                            <h5 itemprop="Price">
+                                &nbsp Цена: @equipment.Price
+                            </h5>
+                            <h5>
+                                &nbsp Количество: @budgetEquipment.Value
+                            </h5>
+
+                            <a href="/Home/MyProduct/@equipment.Id" itemprop="url" target="_blank"> подробнее </a> <img alt="@equipment.Name" height="10" src="@Url.Content("~/Content/Images/vector.png")" width="8" />
+                            <hr />
+                        </div>
+                    </div>
+                }
+            }
+        }
+        <input type="submit" value="Добавить проект" />
+    }
+
+}

@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "IndexAdmComp";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br>
+<h3> Изменение сочетаемости</h3>
+<br>
+<li><a href="/AdminCompability/Create" itemprop="url"> <font color="red">Создать новое сочетание </font></a></li>
+<br>
+@{
+    foreach (var compability in ViewBag.Compabilities)
+    {
+        <div class="list-item" itemprop="itemListElement">
+            <div class="list-content">
+                <p itemprop="name">
+                    &nbsp Id Сочетаемости: @compability.CompabilityId
+                </p>
+                <p itemprop="name">
+                    &nbsp EquipmentId1: @compability.EquipmentId1
+                </p>
+                <p itemprop="name">
+                    &nbsp EquipmentId2: @compability.EquipmentId2
+                </p>
+                <p itemprop="name">
+                    &nbsp Оценка сочетаемости: @compability.IsCompatible из 10
+                </p>
+                <br>
+                <div>
+                    <li><a href="/AdminCompability/Edit/@compability.CompabilityId" itemprop="url"> <font color="red">Изменить </font></a></li>
+                    <li><a href="/AdminCompability/Delete/@compability.CompabilityId" itemprop="url"> <font color="red">Удалить </font></a></li>
+                </div>
+                <hr />
+            </div>
+        </div>
+    }
+}
+

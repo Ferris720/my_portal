@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "InfOfficeResult";
+}
+@if (ViewBag.searchUser != null)
+{
+    foreach (var user in ViewBag.searchUser)
+    {
+
+        <div class="list-item" itemprop="itemListElement">
+            @*<div class="list-photo">
+                    <a href="/Home/MyProduct/@equipment.Id"><img alt="@equipment.Name" itemprop="image" src="@Url.Content(equipment.Image)" style="width: 90px; height: 80px; float:left" /></a>
+                </div>*@
+            <div class="image" style="margin-left:100px">
+                <img alt="@user.UserImage" itemprop="image" src="@Url.Content(user.UserImage)" style="height: 155px; float:left" />
+                </div>
+            <div class="list-content" style="margin-left: 300px">
+                <h4 itemprop="name">
+                    @user.FirstName @user.LastName
+                </h4>
+                <p itemprop="description">
+                    Номер: @user.Phone
+                </p>
+                <p itemprop="description">
+                    Эл. почта: @user.UserEmail
+                </p>
+                <p itemprop="description">
+                    Должности:
+                </p>
+                @foreach (var userRank in ViewBag.UsersRanks)
+                {
+                    if (userRank.UserId == user.UserId)
+                    {
+                        foreach (var rank in ViewBag.Ranks)
+                        {
+                            if (rank.RankId == userRank.RankId)
+                            {
+                                <tt> @rank.RankName&nbsp </tt>
+                            }
+                        }
+                    }
+                }
+                <hr />
+                <br>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <h4>Нет результатов</h4>
+}

@@ -1,0 +1,40 @@
+﻿@{
+    Layout = null;
+}
+
+@if (ViewBag.User[0] != null)
+{
+    <div class="navbar-collapse collapse" style="position: -webkit-sticky; position: sticky; top: 0;">
+        <ul class="nav navbar-nav">
+            <li>@Html.ActionLink("Товары", "Index", "Home")</li>
+            <li>@Html.ActionLink("Поиск", "Search", "Home")</li>
+            <li>@Html.ActionLink("О программе", "About", "Home")</li>
+            <li>@Html.ActionLink("Контакт", "Contact", "Home")</li>
+            @if (ViewBag.User[1] == "True")
+            {
+                <li>@Html.ActionLink("Администрирование", "Admin", "Home")</li>
+            }
+            <li>@Html.ActionLink("Проект", "Project", "Home")</li>
+            <li>@Html.ActionLink("Создать проект", "MakeProject", "Home")</li>
+            <li>@Html.ActionLink("Обучение", "AllEducation", "Education")</li>
+            <li>@Html.ActionLink("Справка", "InfOffice", "Home")</li>
+            <li>@Html.ActionLink("Общение", "MyRooms", "Home")</li>
+        </ul>
+    </div>
+    @*<div class="chat-window">
+        <div class="chat-header">
+            <input class="btn btn-success chat-button" type="button" value="Чат" id="show-chat" />
+        </div>
+        <div class="js-chat-body hidden">
+            <label for="displayname">Name:</label>
+            <input class="text" type="text" id="displayname" value="@ViewBag.User[0]" hidden/>
+            <label for="message">Message:</label>
+            <input class="form-control" type="text" id="message" />
+            <input class="btn btn-success" type="button" id="sendmessage" value="Send message" />
+            <div id="discussion" style="color:aliceblue">
+
+            </div>
+        </div>
+    </div>*@
+}
+

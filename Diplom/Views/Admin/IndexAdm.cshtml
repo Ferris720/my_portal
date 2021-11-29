@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "IndexAdm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br>
+<h3> Изменение категорий</h3>
+<br>
+<li><a href="/Admin/Create" itemprop="url"> <font color="red">Создать новую категорию </font></a></li>
+<br>
+@{
+    foreach (var category in ViewBag.categories)
+    {
+        <div class="list-item" itemprop="itemListElement">
+            <div class="list-content">
+                <p itemprop="name">
+                    &nbsp Id: @category.Id
+                </p>
+                <p itemprop="name">
+                    &nbsp Name: @category.Name
+                </p>
+                @*<p itemprop="description">
+                    &nbsp Description: @category.Description
+                </p>*@
+                <p itemprop="image">
+                    &nbsp Image Path: @category.Image
+                </p>
+                <br>
+                <div>
+                    <li><a href="/Admin/Edit/@category.Id" itemprop="url"> <font color="red">Изменить </font></a></li>
+                    <li><a href="/Admin/Delete/@category.Id" itemprop="url"> <font color="red">Удалить </font></a></li>
+                </div>
+                <hr />
+            </div>
+        </div>
+    }
+}
+

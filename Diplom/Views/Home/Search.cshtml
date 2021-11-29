@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Search";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Search
+    </title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+    <table>
+        <tbody>
+            <br>
+                <input type="text" name="filter" value="@ViewBag.filter" placeholder="Введите название прибора..."/>
+                <span>
+                    <br>
+                    <button type="submit">Поиск</button>
+                </span>
+                @Html.Action("DoSearch")
+        </tbody>
+    </table>
+    }
+</body>
+</html>

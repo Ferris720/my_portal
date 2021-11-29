@@ -1,0 +1,72 @@
+﻿@{
+    ViewBag.Title = "Project";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Project
+    </title>
+</head>
+<body>
+    <br>
+    <h3>Список готовых проектов:</h3>
+    <br>
+    <table>
+        <tbody>
+
+            @{
+            foreach (var project in ViewBag.projects)
+            {
+            <div class="list-item" itemprop="itemListElement">
+
+                <div class="list-content">
+                    <p itemprop="text">
+                        Id: @project.ProjectId
+                    </p>
+                    <p itemprop="text">
+                        Название: @project.ProjectName
+                    </p>
+                    <p itemprop="text">
+                        Бюджет: @project.Budget
+                    </p>
+                    <a href="/Home/MyProject/@project.ProjectId" itemprop="url"> подробнее   </a>
+                    <br>
+
+                    @if (ViewBag.Id != null)
+                    {
+                    <span>
+                        <br>
+                        <button type="submit">Поиск</button>
+                        @Html.Action("MyProject")
+                    </span>
+                    }
+
+
+                    <br>
+                </div>
+            </div>
+
+            @*
+            <div class="list-content">
+                <h3 itemprop="ProjectName">
+                    &nbsp @project.ProjectName
+                </h3>
+                <p itemprop="data">
+                    &nbsp @project.ProjectData
+                </p>
+                <div class="list-detail">
+                    <a href="/Home/MyProject/@project.ProjectId" itemprop="url"> подробнее </a> <img alt="@project.Name" height="10" src="@Url.Content(" ~/Content/Images/vector.png")" width="8" />
+                </div>
+                <hr />
+            </div>*@
+
+            }
+            }
+        </tbody>
+    </table>
+</body>
+</html>
+
+
+

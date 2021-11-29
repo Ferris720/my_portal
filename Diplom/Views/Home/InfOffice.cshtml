@@ -1,0 +1,32 @@
+﻿@Layout="null"
+@{
+    ViewBag.Title = "InfOffice";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        InfOffice
+    </title>
+</head>
+<body>
+    <h3> Введите Имя, Фамилию или должность сотрудника:</h3>
+    @using (Html.BeginForm())
+    {
+        <table>
+            <tbody>
+                <br>
+                <input type="text" name="filter" value="@ViewBag.filter" placeholder="Введите имя сотрудника или должность" />
+                <span>
+                    <br>
+                    <button type="submit">Поиск</button>
+                </span>
+                @Html.Action("DoInfOffice")
+            </tbody>
+        </table>
+    }
+    <br>
+</body>
+</html>
+
+

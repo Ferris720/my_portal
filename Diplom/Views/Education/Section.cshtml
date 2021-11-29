@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewBag.Title = "Section";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<body>
+@foreach (var sec in ViewBag.Section)
+{
+    if (sec.SectionId == ViewBag.Id)
+    {
+        <h2>@sec.SectionName</h2>
+    }
+}
+<br>
+<table>
+    <tbody>
+        @{
+            foreach (var sec in ViewBag.Section)
+            {
+                if (sec.SectionId == ViewBag.Id)
+                {
+                    <div class="list-item" itemprop="itemListElement">
+                        <div class="list-content">
+                            <p itemprop="text" style="font-size:16pt">
+                                @sec.SectionText
+                            </p>
+                            <br>
+                            <h4>Тесты в разделе:</h4>
+                            @foreach (var testNsec in ViewBag.TestsInSections)
+                            {
+                                if (testNsec.SectionId == ViewBag.Id)
+                                {
+                                    foreach (var test in ViewBag.Tests)
+                                    {
+                                        if (test.TestId == testNsec.TestId)
+                                        {
+                                            <div class="list-item" itemprop="itemListElement">
+                                                <div class="list-content">
+                                                    <hr />
+                                                    <h3 itemprop="name">
+                                                        &nbsp @test.TestName
+                                                    </h3>
+                                                    <h6 itemprop="data">
+                                                        &nbsp @test.TestData
+                                                    </h6>
+                                                    @foreach (var done in ViewBag.DoneTest)
+                                                    {
+                                                        if (ViewBag.UserId == done.UserId && done.TestId == test.TestId)
+                                                        {
+                                                            if (done.MaxResult < 7)
+                                                            {
+                                                                <h6 itemprop="data" style="background-color:lightpink; width:300px; height:110%; font-size:13pt">
+                                                                    &nbsp Лучший результат: @(done.MaxResult) из 10
+                                                                </h6>
+                                                            }
+                                                            else
+                                                            {
+                                                                <h6 itemprop="data" style="background-color:lightgreen; width:300px; height:110%; font-size:13pt">
+                                                                    &nbsp Лучший результат: @(done.MaxResult) из 10
+                                                                </h6>
+                                                            }
+
+                                                        }
+                                                    }
+                                                    <div class="list-detail">
+                                                        <a href="/Education/Test/@test.TestId" itemprop="url"> перейти к тесту </a>
+                                                    </div>
+                                                    <hr />
+                                                </div>
+                                            </div>
+                                        }
+                                    }
+                                }
+                            }
+                            <br>
+                        </div>
+                    </div>
+                }
+            }
+        }
+        </tbody>
+    </table>
+    </body>
+

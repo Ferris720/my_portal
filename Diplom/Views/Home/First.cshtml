@@ -1,0 +1,64 @@
+﻿@{
+    ViewBag.Title = "First";
+}
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Enter
+    </title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="/Home/Index"> <img src="@Url.Content("~/Content/Images/Logo/logo.png")" width="50" height="50" /></a>
+            </div>
+            <div class="navbar-collapse collapse" style="position: -webkit-sticky; position: sticky; top: 0;">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("О программе", "About", "Home")</li>
+                    <li>@Html.ActionLink("Контакт", "Contact", "Home")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    @using (Html.BeginForm())
+    {
+        <table>
+            <tbody>
+                <div id="sec2" style="opacity: 0.8">
+                    <br>
+                    <h3 id="fronttext">Логин/Email:</h3>
+                    <input type="text" id="input" name="name" value="@ViewBag.name" placeholder="Введите логин пользователя или почту" required />
+                    <h3 id="fronttext">Пароль:</h3>
+                    <input type="text" id="input" name="password" value="@ViewBag.password" placeholder="Введите пароль"  required/>
+                    <span>
+                        <br>
+                        <br>
+                        <button type="submit" id="input">Ввод</button>
+                        <br>
+
+                    </span>
+                
+                @if (ViewBag.name != null && ViewBag.password != null)
+                {
+                    @Html.Action("DoFirst")
+                }
+                </div>
+            </tbody>
+        </table>
+    }
+</body>
+</html>

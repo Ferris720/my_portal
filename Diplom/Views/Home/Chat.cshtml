@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Chat";
+}
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<body>
+    <div>
+        @foreach (var room in ViewBag.Rooms)
+        {
+            if (room.RoomId == ViewBag.RoomId)
+            {
+                <h3>@room.RoomName </h3>
+            }
+        }
+        <div style="margin-right:3px">
+            <a href="/Home/AddToChat/@ViewBag.RoomId" id="@ViewBag.RoomId" itemprop="url"> Добавить собеседника </a>
+        </div>
+    </div>
+    <div class="chat-window">
+        @*<div class="chat-header">
+            <input class="btn btn-success chat-button" type="button" value="Чат" id="show-chat" />
+        </div>*@
+        <div class="js-chat-body" style="margin-left:2px">
+            @foreach (var user in ViewBag.Users)
+            {
+                if (user.Name == ViewBag.User[0])
+                {
+                    <input class="form-control" type="hidden" id="displayname" value="@user.UserId" />
+                }
+            }
+            <input class="form-control" type="hidden" id="displayroom" value="@ViewBag.RoomId" />
+            <label for="message">Message:</label>
+            <input class="form-control" type="text" id="message" />
+            <input class="btn btn-success" type="button" id="sendmessage" value="Send message" />
+            <div id="discussion">
+
+            </div>
+        </div>
+
+    </body>
+

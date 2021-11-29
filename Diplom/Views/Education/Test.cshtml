@@ -1,0 +1,76 @@
+﻿@{
+    ViewBag.Title = "Test";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<table>
+
+    <tbody>
+        @{
+            foreach (var test in ViewBag.Tests)
+            {
+                <br>
+                if (test.TestId == ViewBag.Id)
+                {
+                    <div class="list-item" itemprop="itemListElement">
+                        <div class="list-content">
+                            <p itemprop="text" style="font-size:20pt">
+                                @test.TestName
+                            </p>
+                            @using (Html.BeginForm())
+                            {
+                                foreach (var qua in ViewBag.Quastions)
+                                {
+                                    <div class="list-item" itemprop="itemListElement">
+                                        <div class="list-content">
+                                            <hr />
+                                            <h3 itemprop="name" style="font-size:15pt">
+                                                &nbsp @qua.QuastionText
+                                            </h3>
+                                            @foreach (var ans in ViewBag.Answers)
+                                            {
+                                                if (ans.QuastionId == qua.QuastionId)
+                                                {
+                                            <h3 itemprop="name" style="font-size:11pt">
+                                                &nbsp  - @ans.AnswerText
+                                            </h3>
+                                            @*<h3 itemprop="name" style="font-size:11pt">
+                                                &nbsp  - @qua.WrongAnswer1
+                                            </h3>
+                                            <h3 itemprop="name" style="font-size:11pt">
+                                                &nbsp  - @qua.WrongAnswer2
+                                            </h3>
+                                            <h3 itemprop="name" style="font-size:11pt">
+                                                &nbsp  - @qua.WrongAnswer3
+                                            </h3>*@
+                                                }
+                                            }
+                                            <div style="margin-bottom:4px">
+                                                Выберите ответ:
+
+                                                <select type="number" name="@qua.QuastionId">
+                                                    @foreach (var ans in ViewBag.Answers)
+                                                    {
+                                                        if (ans.QuastionId == qua.QuastionId)
+                                                        {
+                                                            <option value="@ans.AnswerId">@ans.AnswerText</option>
+                                                        }
+                                                    }
+                                                       </select>
+                                                    </div>
+                                            <hr />
+                                        </div>
+                                    </div>
+
+
+                                }
+                                <br>
+                                <input type="hidden" value="@test.TestId" name="TestId" />
+                                <input type="submit" value="Закончить тест" />
+                            }
+                        </div>
+                    </div>
+                    }
+                } 
+        }
+</tbody>
+</table>

@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "AllEducation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Добро пожаловать в обучающий модуль!</h2>
+<h4>Здесь вы можете изучить необходимый материал и пройти тестирование</h4>
+
+@foreach (var s in ViewBag.Sections)
+{
+    <div class="list-item" itemprop="itemListElement">
+        <div class="list-content">
+            <h3 itemprop="name">
+                &nbsp @s.SectionName
+            </h3>
+            <h6 itemprop="data">
+                &nbsp @s.SectionData
+            </h6>
+            <div class="list-detail">
+                <a href="/Education/Section/@s.SectionId" itemprop="url"> перейти к разделу </a>
+            </div>
+            <hr />
+        </div>
+    </div>
+}
+

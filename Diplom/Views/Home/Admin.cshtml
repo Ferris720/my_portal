@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Admin";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Admin
+    </title>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        <table>
+            <tbody>
+                <br>
+                <input type="text" name="password" value="@ViewBag.password" placeholder="Пароль администратора..." />
+                <span>
+                    <br>
+                    <button type="submit">Поиск</button>
+                </span>
+                @Html.Action("Password_Result")
+            </tbody>
+        </table>
+    }
+</body>
+</html>

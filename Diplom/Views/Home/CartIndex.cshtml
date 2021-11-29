@@ -1,0 +1,42 @@
+﻿@model Diplom.Models.CartIndexViewModel
+
+@{
+    ViewBag.Title = "CartIndes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>CartIndex</h2>
+<table class=" table">
+    <thead>
+        <tr>
+            <th>Количество</th>
+            <th>Название</th>
+            <th>Цена</th>
+            <th>Итого</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var line in Model.Cart.Lines)
+        {
+            <tr>
+                <td class=" text-center ">@line.Quantuty</td>
+                <td class="text-left">@line.Equipment.Name</td>
+                <td class="text-right">@line.Equipment.Price</td>
+                <td class="text-right">@line.Quantuty * line.Equipment.Price)</td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>Итого:</td>
+            <td>@Model.Cart.ComputeTotalValue().ToString()</td>
+            </tr>
+        </tfoot>
+    </table>
+<div class="text-center">
+    <a class="btn btn-primary" href=" @Model.ReturnUrl"> Вернуться к выбору</a>
+</div>
+
+
+
+    }

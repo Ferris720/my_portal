@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "TestResult";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<body>
+    <h2>@ViewBag.Answer</h2>
+    @foreach (var test in ViewBag.Tests)
+    {
+        if (test.TestId == ViewBag.TestId)
+        {
+            <h2>Результат прохождения теста "@test.TestName":</h2>
+        }
+    }
+            <p style="font-size:15pt">
+                Вы набрали @ViewBag.countRight из @ViewBag.count баллов
+                <br>
+                <div class="list-detail">
+                    <a href="/Education/Section/@ViewBag.currentSection" itemprop="url"> вернуться к разделу </a>
+                </div>
+</body>
+
+
